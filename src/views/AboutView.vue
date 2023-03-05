@@ -1,8 +1,5 @@
 <script setup lang="ts">
-import {Welcome, Hello} from "protice-vue";
-
-
-
+import { Welcome, Hello } from "protice-vue";
 </script>
 
 <template>
