@@ -1,11 +1,14 @@
-<script setup lang="ts">
-const a = 123;
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div class="todolist">
-    <h1>This is an todo list page {{ a }}</h1>
+    <h1>This is an todo list page</h1>
   </div>
 </template>
 
-<style></style>
+<style scoped lang="scss">
+@import "../styles/main.scss";
+.todolist {
+  color: $test;
+}
+</style>
