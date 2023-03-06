@@ -18,7 +18,6 @@
   "dependencies": {
     "@vue/cli-plugin-typescript": "^5.0.8",
     "pinia": "^2.0.32",
-    "protice-vue": "^2.0.0",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
