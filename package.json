@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "@vue/cli-plugin-typescript": "^5.0.8",
+    "dot-cart": "../dot-cart",
     "pinia": "^2.0.32",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
