@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import { Welcome, Hello } from "dot-cart";
+// import { Welcome, Hello } from "dot-cart";
 </script>
 
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <Hello msg="new component!" />
-    <Welcome />
+    <!-- <Hello msg="new component!" />
+    <Welcome /> -->
   </div>
 </template>
 

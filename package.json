@@ -1,6 +1,6 @@
 {
   "name": "protice-vue",
-  "version": "2.0.0",
+  "version": "2.0.9",
   "main": "dist/vue-hello.common.js",
   "scripts": {
     "dev": "vite",
@@ -13,11 +13,12 @@
     "format": "prettier --write src/"
   },
   "files": [
-    "dist/*"
+    "dist/*",
+    "src/*",
+    "public/*"
   ],
   "dependencies": {
     "@vue/cli-plugin-typescript": "^5.0.8",
-    "dot-cart": "../dot-cart",
     "pinia": "^2.0.32",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
